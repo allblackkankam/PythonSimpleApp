@@ -3,7 +3,6 @@ print "Python E-mail Sender"
 mail = raw_input("YourMail: ")
 password = raw_input("Password: ")
 to =raw_input("ReceiversMail: ")
-subject=raw_input("subject")
 message = raw_input("Message: ")
 # print "1 gmail", "2 hotmail" , "3 yahoo"
 # Mailservice = raw_input("Choice of MailService:")
